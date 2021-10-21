@@ -1,0 +1,41 @@
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\MyHomeProject.csprojAssemblyReference.cache
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\MyHomeProject.AssemblyInfoInputs.cache
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\MyHomeProject.AssemblyInfo.cs
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\MyHomeProject.csproj.CoreCompileInputs.cache
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\MyHomeProject.dll
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\ref\MyHomeProject.dll
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\MyHomeProject.pdb
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\bin\Debug\netstandard2.0\MyHomeProject.deps.json
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\bin\Debug\netstandard2.0\MyHomeProject.dll
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\bin\Debug\netstandard2.0\ref\MyHomeProject.dll
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\bin\Debug\netstandard2.0\MyHomeProject.pdb
+D:\PROJECT 2021\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\bin\Debug\netstandard2.0\MyHomeProject.deps.json
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\bin\Debug\netstandard2.0\MyHomeProject.dll
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\bin\Debug\netstandard2.0\ref\MyHomeProject.dll
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\bin\Debug\netstandard2.0\MyHomeProject.pdb
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\MyHomeProject.csproj.AssemblyReference.cache
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\Views\DetailsPropertySelect.xaml.g.cs
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\MyHomeProject.AssemblyInfoInputs.cache
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\MyHomeProject.AssemblyInfo.cs
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\MyHomeProject.csproj.CoreCompileInputs.cache
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\MyHomeProject.dll
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\ref\MyHomeProject.dll
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\MyHomeProject.pdb

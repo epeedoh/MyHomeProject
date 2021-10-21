@@ -1,0 +1,14 @@
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Services\bin\Release\netstandard2.1\MyHomeProject.Services.deps.json
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Services\bin\Release\netstandard2.1\MyHomeProject.Services.dll
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Services\bin\Release\netstandard2.1\MyHomeProject.Services.pdb
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Services\bin\Release\netstandard2.1\MyHomeProject.Core.dll
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Services\bin\Release\netstandard2.1\MyHomeProject.Data.dll
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Services\bin\Release\netstandard2.1\MyHomeProject.Data.pdb
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Services\bin\Release\netstandard2.1\MyHomeProject.Core.pdb
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Services\obj\Release\netstandard2.1\MyHomeProject.Services.csproj.AssemblyReference.cache
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Services\obj\Release\netstandard2.1\MyHomeProject.Services.AssemblyInfoInputs.cache
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Services\obj\Release\netstandard2.1\MyHomeProject.Services.AssemblyInfo.cs
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Services\obj\Release\netstandard2.1\MyHomeProject.Services.csproj.CoreCompileInputs.cache
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Services\obj\Release\netstandard2.1\MyHomeProject.Services.csproj.CopyComplete
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Services\obj\Release\netstandard2.1\MyHomeProject.Services.dll
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Services\obj\Release\netstandard2.1\MyHomeProject.Services.pdb

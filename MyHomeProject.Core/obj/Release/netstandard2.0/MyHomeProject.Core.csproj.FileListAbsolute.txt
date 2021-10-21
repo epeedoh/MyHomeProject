@@ -1,0 +1,9 @@
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\bin\Release\netstandard2.0\MyHomeProject.Core.deps.json
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\bin\Release\netstandard2.0\MyHomeProject.Core.dll
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\bin\Release\netstandard2.0\MyHomeProject.Core.pdb
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\obj\Release\netstandard2.0\MyHomeProject.Core.csproj.AssemblyReference.cache
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\obj\Release\netstandard2.0\MyHomeProject.Core.AssemblyInfoInputs.cache
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\obj\Release\netstandard2.0\MyHomeProject.Core.AssemblyInfo.cs
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\obj\Release\netstandard2.0\MyHomeProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\obj\Release\netstandard2.0\MyHomeProject.Core.dll
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\obj\Release\netstandard2.0\MyHomeProject.Core.pdb

@@ -1,0 +1,36 @@
+D:\PROJECT 2021\MyHomeProject\MyHomeProject.Core\bin\Debug\netstandard2.0\MyHomeProject.Core.deps.json
+D:\PROJECT 2021\MyHomeProject\MyHomeProject.Core\bin\Debug\netstandard2.0\MyHomeProject.Core.dll
+D:\PROJECT 2021\MyHomeProject\MyHomeProject.Core\bin\Debug\netstandard2.0\MyHomeProject.Core.pdb
+D:\PROJECT 2021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.csprojAssemblyReference.cache
+D:\PROJECT 2021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.AssemblyInfoInputs.cache
+D:\PROJECT 2021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.AssemblyInfo.cs
+D:\PROJECT 2021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.csproj.CoreCompileInputs.cache
+D:\PROJECT 2021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.dll
+D:\PROJECT 2021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.pdb
+D:\PROJECT 2021\MyHomeProject_11032021\MyHomeProject\MyHomeProject.Core\bin\Debug\netstandard2.0\MyHomeProject.Core.deps.json
+D:\PROJECT 2021\MyHomeProject_11032021\MyHomeProject\MyHomeProject.Core\bin\Debug\netstandard2.0\MyHomeProject.Core.dll
+D:\PROJECT 2021\MyHomeProject_11032021\MyHomeProject\MyHomeProject.Core\bin\Debug\netstandard2.0\MyHomeProject.Core.pdb
+D:\PROJECT 2021\MyHomeProject_11032021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.csprojAssemblyReference.cache
+D:\PROJECT 2021\MyHomeProject_11032021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.AssemblyInfoInputs.cache
+D:\PROJECT 2021\MyHomeProject_11032021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.AssemblyInfo.cs
+D:\PROJECT 2021\MyHomeProject_11032021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.csproj.CoreCompileInputs.cache
+D:\PROJECT 2021\MyHomeProject_11032021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.dll
+D:\PROJECT 2021\MyHomeProject_11032021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.pdb
+D:\PROJECT 2021\MyHomeProject_29032021\MyHomeProject\MyHomeProject.Core\bin\Debug\netstandard2.0\MyHomeProject.Core.deps.json
+D:\PROJECT 2021\MyHomeProject_29032021\MyHomeProject\MyHomeProject.Core\bin\Debug\netstandard2.0\MyHomeProject.Core.dll
+D:\PROJECT 2021\MyHomeProject_29032021\MyHomeProject\MyHomeProject.Core\bin\Debug\netstandard2.0\MyHomeProject.Core.pdb
+D:\PROJECT 2021\MyHomeProject_29032021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.csprojAssemblyReference.cache
+D:\PROJECT 2021\MyHomeProject_29032021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.AssemblyInfoInputs.cache
+D:\PROJECT 2021\MyHomeProject_29032021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.AssemblyInfo.cs
+D:\PROJECT 2021\MyHomeProject_29032021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.csproj.CoreCompileInputs.cache
+D:\PROJECT 2021\MyHomeProject_29032021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.dll
+D:\PROJECT 2021\MyHomeProject_29032021\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.pdb
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\bin\Debug\netstandard2.0\MyHomeProject.Core.deps.json
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\bin\Debug\netstandard2.0\MyHomeProject.Core.dll
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\bin\Debug\netstandard2.0\MyHomeProject.Core.pdb
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.csproj.AssemblyReference.cache
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.AssemblyInfoInputs.cache
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.AssemblyInfo.cs
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.dll
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.pdb
