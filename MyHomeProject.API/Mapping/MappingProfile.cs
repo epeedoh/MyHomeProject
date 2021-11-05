@@ -18,6 +18,9 @@ namespace MyHomeProject.API.Mapping
             // Resources vers Domain ou la base de données
 
             CreateMap<ProprieteResource, Propriete>();
+
+            CreateMap<Image, ImageResource>();
+            CreateMap<ImageResource, Image>();
         }
     }
 }

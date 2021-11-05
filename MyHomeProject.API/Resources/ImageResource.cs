@@ -1,10 +1,13 @@
-﻿using System;
+﻿using MyHomeProject.Core.Models;
+using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace MyHomeProject.Core.Models
+namespace MyHomeProject.API.Resources
 {
-    public class Image
+    public class ImageResource
     {
         public int ImageID { get; set; }
         public string Url { get; set; }
@@ -13,8 +16,7 @@ namespace MyHomeProject.Core.Models
         public bool IsMain { get; set; }
 
         public int ProprieteID { get; set; }
-
+        //[JsonIgnore]
         //public virtual Propriete Propriete { get; set; }
-
     }
 }

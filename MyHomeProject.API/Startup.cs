@@ -46,6 +46,7 @@ namespace MyHomeProject.API
             services.AddDirectoryBrowser();
 
             services.AddTransient<IProprieteService, ProprieteService>();
+            services.AddTransient<IimageService, ImagesService>();
 
             services.AddAutoMapper(typeof(Startup));
         }

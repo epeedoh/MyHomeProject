@@ -11,6 +11,8 @@ namespace MyHomeProject.Data
     {
         private readonly DatabaseContext _context;
         private IProprieteRepository _proprieteRepository;
+        private IimageRepository _imageRepository;
+
         //     public IProprieteRepository Propriete => throw new NotImplementedException();
 
         public UnitOfWork(DatabaseContext context)
@@ -19,6 +21,7 @@ namespace MyHomeProject.Data
         }
 
         public IProprieteRepository Propriete => _proprieteRepository = _proprieteRepository ?? new ProprieteRepository(_context);
+        public IimageRepository Image => _imageRepository = _imageRepository ?? new ImageRepository(_context);
 
         public async Task<int> CommitAsync()
         {
