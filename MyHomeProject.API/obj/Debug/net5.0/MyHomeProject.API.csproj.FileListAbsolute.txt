@@ -268,7 +268,6 @@ C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.API\obj\De
 C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.API\obj\Debug\net5.0\MyHomeProject.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.API\obj\Debug\net5.0\MyHomeProject.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.API\obj\Debug\net5.0\staticwebassets\MyHomeProject.API.StaticWebAssets.Manifest.cache
-C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.API\obj\Debug\net5.0\staticwebassets\MyHomeProject.API.StaticWebAssets.xml
 C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.API\obj\Debug\net5.0\scopedcss\bundle\MyHomeProject.API.styles.css
 C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.API\obj\Debug\net5.0\MyHomeProject.API.RazorTargetAssemblyInfo.cache
 C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.API\obj\Debug\net5.0\MyHomeProject.API.csproj.CopyComplete

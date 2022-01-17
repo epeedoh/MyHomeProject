@@ -39,3 +39,4 @@ C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProj
 C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\MyHomeProject.dll
 C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\ref\MyHomeProject.dll
 C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\MyHomeProject.pdb
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject\MyHomeProject\obj\Debug\netstandard2.0\MyHomeProject.GeneratedMSBuildEditorConfig.editorconfig

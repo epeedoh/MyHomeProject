@@ -40,3 +40,4 @@ C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Data\obj\D
 C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Data\obj\Debug\netstandard2.1\MyHomeProject.Data.csproj.CopyComplete
 C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Data\obj\Debug\netstandard2.1\MyHomeProject.Data.dll
 C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Data\obj\Debug\netstandard2.1\MyHomeProject.Data.pdb
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Data\obj\Debug\netstandard2.1\MyHomeProject.Data.GeneratedMSBuildEditorConfig.editorconfig

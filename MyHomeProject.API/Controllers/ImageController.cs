@@ -35,15 +35,15 @@ namespace MyHomeProject.API.Controllers
             return response;
         }
 
-        [HttpPost("GetAnImageByIdPropriete")]
-        public async Task<DetailsImageResponse> GetAnImageByIdPropriete(int idImageSelect)
+        [HttpPost("GetAllImagesByPropertyId")]
+        public async Task<ImageResponse> GetAllImagesByPropertyId(int idPropertySelect)
         {
-            DetailsImageResponse response = new DetailsImageResponse();
+            ImageResponse response = new ImageResponse();
 
-            var anImage = await _serviceImage.GetImageById(idImageSelect);
-            var imageResources = _mapperService.Map<Image, ImageResource>(anImage);
+            var anImage = await _serviceImage.GetAllImagesByPropertyIdAsync(idPropertySelect);
+            var imageResources = _mapperService.Map<IEnumerable<Image>, IEnumerable<ImageResource> >(anImage);
 
-            response.Image = imageResources;
+            response.Images = imageResources;
 
             return response;
 

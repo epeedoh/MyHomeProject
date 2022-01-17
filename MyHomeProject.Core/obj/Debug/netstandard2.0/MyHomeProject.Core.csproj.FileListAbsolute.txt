@@ -34,3 +34,4 @@ C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\obj\D
 C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.csproj.CoreCompileInputs.cache
 C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.dll
 C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.pdb
+C:\Users\edoh.epe\Documents\WOKSPACE_TEST\MyHomeProject\MyHomeProject.Core\obj\Debug\netstandard2.0\MyHomeProject.Core.GeneratedMSBuildEditorConfig.editorconfig

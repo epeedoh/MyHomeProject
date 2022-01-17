@@ -4,12 +4,13 @@ using MyHomeProject.Core.Repositories;
 using MyHomeProject.Data.DataContext;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace MyHomeProject.Data.Repositories
 {
-    public class ImageRepository: Repository<Image>,IimageRepository
+    public class ImageRepository: Repository<Image>, IimageRepository
     {
         private DatabaseContext DatabaseContext
         {
@@ -45,10 +46,15 @@ namespace MyHomeProject.Data.Repositories
         {
             return DatabaseContext.Images
           //.Include(a => a.Propriete)
-         .SingleOrDefaultAsync(a => a.ProprieteID == id);
+         .SingleOrDefaultAsync(a => a.ImageID == id);
         }
 
-
+         async Task<IEnumerable<Image>> IimageRepository.GetAllImagesByPropertyIdAsync(int id)
+        {
+            return await DatabaseContext.Images
+           //.Include(a => a.Propriete)
+          .Where(a => a.ProprieteID == id).ToListAsync();
+        }
 
     }
 }

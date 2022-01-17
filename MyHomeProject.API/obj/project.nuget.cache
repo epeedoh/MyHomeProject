@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7NqB0Ex90GFJBP5edUdDvYraZ62AAW073gsUj1FPW0PvXUi61yIDyPcLyoN05Q0434zjlRdFrduqmW5WNJqxBw==",
+  "dgSpecHash": "W1E6LrvRisuZL2IFrsiJq//dKwfh7Le0Uuu+5BHQWTjHX+rRULucW+bgHW0vpQ8cIvb/MFpxJZXZbEjLQw4BHA==",
   "success": true,
   "projectFilePath": "C:\\Users\\edoh.epe\\Documents\\WOKSPACE_TEST\\MyHomeProject\\MyHomeProject.API\\MyHomeProject.API.csproj",
   "expectedPackageFiles": [
@@ -125,7 +125,8 @@
     "C:\\Users\\edoh.epe\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\edoh.epe\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\edoh.epe\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\edoh.epe\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\edoh.epe\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\edoh.epe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],
   "logs": []
 }

@@ -10,5 +10,6 @@ namespace MyHomeProject.Core.Repositories
     {
         Task<IEnumerable<Image>> GetAllImagesAsync();
         Task<Image> GetAllImagesByIdAsync(int id);
+        Task<IEnumerable<Image>> GetAllImagesByPropertyIdAsync(int id);
     }
 }

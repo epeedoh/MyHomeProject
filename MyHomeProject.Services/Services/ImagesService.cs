@@ -28,6 +28,11 @@ namespace MyHomeProject.Services.Services
             return await _unitOfwork.Image.GetAllImagesAsync();
         }
 
+        public async Task<IEnumerable<Image>> GetAllImagesByPropertyIdAsync(int id)
+        {
+            return await _unitOfwork.Image.GetAllImagesByPropertyIdAsync(id);
+        }
+
         public async Task<Image> GetImageById(int id)
         {
             return await _unitOfwork.Image.GetByIdAsync(id);

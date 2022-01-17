@@ -13,6 +13,7 @@ namespace MyHomeProject.Core.Services
         Task<Image> SaveImage(Image newImage);
         Task UpdateImage(Image imageUpdated, Image image);
         Task DeleteImage(Image image);
+        Task<IEnumerable<Image>> GetAllImagesByPropertyIdAsync(int id);
 
     }
 }

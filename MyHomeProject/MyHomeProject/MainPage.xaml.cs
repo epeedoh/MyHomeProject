@@ -53,7 +53,7 @@ namespace MyHomeProject
         private async void PropertySelected(object sender, EventArgs e)
         {
             //var property = (sender as View).BindingContext as Propriete;
-     var property = (sender as View).BindingContext as ProprieteResource;
+            var property = (sender as View).BindingContext as ProprieteResource;
             await this.Navigation.PushAsync(new DetailsPropertySelect(property));
         }
 
